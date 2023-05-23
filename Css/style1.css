@@ -1,0 +1,103 @@
+#titulo
+{
+    border: 4px solid rgb(0, 0, 0);
+    width: 805px;
+    margin-left: 250px;
+    background-color: rgb(255, 255, 255);
+    
+    
+
+}
+h1
+{
+    color: rgb(0, 0, 0);
+    text-align: center;
+    
+    
+}
+h2
+{
+    color: rgb(255, 255, 255);
+    padding: 10px;
+ 
+    
+    
+    background-color: rgb(36, 2, 74);
+    margin-top: 0px;
+    
+    
+}
+
+header
+{
+    border: 2px solid white;
+    margin-left: 200px;
+    height: 199px;
+    background-color: rgb(159, 189, 246);
+    width:600px ;
+
+}
+.primero
+{
+    font-weight: bolder;
+    margin-left: 5px;
+}
+.segundo
+{
+    
+    color: rgb(10, 10, 10);
+}
+main
+{
+    margin-left: 0px;
+    border: 2px solid white;
+    margin-top: 5px;
+   
+    background-color: rgb(159, 189, 246);
+    width:800px ;
+}
+.años
+{
+    color: rgb(11, 24, 121);
+    font-weight: bold;
+    margin-left: 5px;
+}
+footer
+{
+    margin-left: 0px;
+    border: 2px solid white;
+    margin-top: 5px;
+    background-color: rgb(159, 189, 246);
+    width:800px ;
+}
+.azul
+{
+    color: rgb(241, 242, 244);
+    border: 2px solid white;
+    text-align: center;
+    width: 780px;
+    margin-top: 5px;
+    margin-bottom: 0px;
+    background-color:rgb(1, 1, 2)
+    
+    
+    
+}
+nav
+{
+    margin-left: 0px;
+    border: 2px solid white;
+    margin-top: 5px;
+    background-color: rgb(159, 189, 246);
+    width:800px ;
+    
+}
+section
+{
+    margin-left: 0px;
+    border: 2px solid white;
+    margin-top: 5px;
+    background-color: rgb(159, 189, 246);
+    width:800px ;
+
+}

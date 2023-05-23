@@ -1,0 +1,55 @@
+
+main
+{
+  
+    border:3 px;
+    
+    width: 700px;
+    height: 700px;
+    
+    background-color: rgb(86, 24, 24);
+    margin:auto;
+    
+     
+    
+}
+.mapa
+{
+    margin-top: 20px;
+    
+
+}
+h1
+{
+     padding: 10px; 
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: bolder;
+    color: white;
+}
+footer
+{
+    
+    border: 20px solid ;
+    width: 660px;
+    height: 660px;
+    
+    
+    text-align: center;
+    border-image: linear-gradient(to right, rgb(0, 15, 176), rgb(12, 157, 186)) 1;
+   
+    
+}
+p
+{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: white;
+    font-size: 18px;
+    font-weight: bold;
+    
+}
+form
+{
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
